@@ -1,4 +1,4 @@
-Query numero 1:"Ordini e ricavo per settimana, con i negozi che hanno venduto più unità".
+Query numero 1:"Ordini e ricavo per settimana, con i negozi che hanno venduto più unità per settimana".
 
 La prima query ha lo scopo di utilizzare i vari dati riguardanti le date e le vendite, per riuscire a trovare quale dei negozi ha un guadagno maggiore. Questa informazione porterebbe essere usato in futuro per determinare strategie di mercato per la vendita, oppure una valutazione di efficienza con gli altri negozi per cercare di capire, e in caso porre rimedio ad, un'eventuale anomalia.
 
