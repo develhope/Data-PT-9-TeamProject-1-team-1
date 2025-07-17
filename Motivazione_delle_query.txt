@@ -1,0 +1,11 @@
+Query numero 1:"Ordini e ricavo per settimana, con i negozi che hanno venduto più unità".
+
+La prima query ha lo scopo di utilizzare i vari dati riguardanti le date e le vendite, per riuscire a trovare quale dei negozi ha un guadagno maggiore. Questa informazione porterebbe essere usato in futuro per determinare strategie di mercato per la vendita, oppure una valutazione di efficienza con gli altri negozi per cercare di capire, e in caso porre rimedio ad, un'eventuale anomalia.
+
+
+
+
+
+Query numero 2:"Trovare gli articoli più e meno venduti, confrontare il prezzo con il competitor e differenza tra il guadagno effettivo e quello che ci sarebbe stato senza sconto".
+
+La seconda query ha come obbiettivo la ricerca degli articoli più o meno venduti dell'inventario, per poi vedere il prezzo del competitor e provare a vedere se gli articoli abbiano un effettiva differenza di prezzo. L'ultima parte della query è per vedere quanto influisce sul possibile guadagno totale la presenza di sconti.
