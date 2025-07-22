@@ -1,0 +1,12 @@
+Query numero 1: La prima parte della query vuole trovare le vendite totali e i ricavi ottenuti su una base di settimanale. Ottenuti i dati relati alle vendite poi si vuole trovare le quantità vendute suddivise per negozio, poi ordinate in modo d'avere un illustrazione su chi stia performando meglio durante le settimane.
+
+La prima query ha lo scopo di utilizzare i vari dati riguardanti le vendite, per riuscire a trovare quale dei negozi ha un guadagno e una vendita maggiore in un modello settimanalmente. Queste informazioni porterebbero essere usate in futuro per determinare strategie di mercato per la vendita, oppure una valutazione di efficienza con gli altri negozi per cercare di capire, e in caso porre rimedio ad, un'eventuale anomalia.
+
+
+
+
+
+Query numero 2:La query esplorativa vuole trovare la quantità degli articoli venduti nel mese per ogni negozio. Con questo primo set di dati ricavati fare una comparazione con il prezzo di vendita del competitor, per cercare differenze sostanziali. Con i dati acquisiti cercare di determinare l'impatto economico degli sconti trovando sia l'incasso generato sia la perdita dovuto all'applicazione dello sconto.
+
+
+La seconda query ha come obbiettivo la ricerca degli articoli più o meno venduti dell'inventario, per poi vedere il prezzo del competitor e provare a vedere se gli articoli abbiano un effettiva differenza di prezzo. L'ultima parte della query è per vedere quanto influisce sul possibile guadagno totale la presenza di sconti.
