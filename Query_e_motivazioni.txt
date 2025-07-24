@@ -1,6 +1,6 @@
-Query numero 1: La prima parte della query vuole trovare le vendite totali e i ricavi ottenuti su una base di settimanale. Ottenuti i dati relati alle vendite poi si vuole trovare le quantità vendute suddivise per negozio, poi ordinate in modo d'avere un illustrazione su chi stia performando meglio durante le settimane.
-
-La prima query ha lo scopo di utilizzare i vari dati riguardanti le vendite, per riuscire a trovare quale dei negozi ha un guadagno e una vendita maggiore in un modello settimanalmente. Queste informazioni porterebbero essere usate in futuro per determinare strategie di mercato per la vendita, oppure una valutazione di efficienza con gli altri negozi per cercare di capire, e in caso porre rimedio ad, un'eventuale anomalia.
+Query numero 1: La prima parte della query vuole trovare le vendite totali e i ricavi ottenuti su una base di settimanale. Ottenuti i dati relati alle vendite poi si vuole trovare le quantità vendute suddivise per negozio, poi ordinate in modo d'avere un illustrazione su chi stia performando meglio durante le settimane. Infine si vogliono ottenere gli oggetti in stoccaggio, quelli ordinati e avendo a disposizione la previsione delle vendite cercare se vi è una quantità consona di oggetti totali.
+ 
+La prima query ha lo scopo di utilizzare i vari dati riguardanti le vendite, per riuscire a trovare quale dei negozi ha un guadagno e una vendita maggiore in un modello settimanalmente. La seconda parte vuole analizzare i movimenti dell'inventario andando a vedere se i livelli posso indicare un funzionamento sano degli ordini. Queste informazioni porterebbero essere usate in futuro per determinare strategie di mercato per la vendita, oppure una valutazione di efficienza con gli altri negozi per cercare di capire, e in caso porre rimedio ad, un'eventuale anomalia.
 
 
 
